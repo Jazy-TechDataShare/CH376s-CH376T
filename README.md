@@ -1,5 +1,6 @@
 # CH376s/CH376T
 http://wch.cn/
+
  v1.0.0
 
 This is an Arduino library for the serial USB CH376s
